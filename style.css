@@ -27,9 +27,6 @@
     display: flex;
     align-items: center;
 }
-.banner-info{
-
-}
 .dh{
     color: red;
 }
@@ -69,7 +66,7 @@
 }
 .icon1{
     width: 100px;
-    margin-bottom: ;
+    
 }
 .box{
     text-align: center;
@@ -122,24 +119,25 @@
 .call-appoinment-letter{
     display: flex;
     justify-content: space-around;
+    height: 50px;
     width: 70%;
     margin: auto;
     padding: 20px;
     background-image: url('./asset/image/nature.png.jpg');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
     border-radius: 10px;
     margin-top: -30px;
+    margin-bottom: -30px;
     position: relative;
     align-items: center;
-    
+    color: white;
 }
 .phone-call{
     display: flex;
 }
 .text{
     width: 50%;
-}
-.blog-container{
-
 }
 .blog{
     color: red;
